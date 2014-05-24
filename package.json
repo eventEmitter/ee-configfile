@@ -1,7 +1,7 @@
 {
       "name"                        : "ee-configfile"
     , "description"                 : "config file loader"
-    , "version"                     : "0.1.0"
+    , "version"                     : "0.1.1"
     , "homepage"                    : "https://github.com/eventEmitter/ee-configfile"
     , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
     , "licence"                     : "mit"
