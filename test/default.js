@@ -19,7 +19,7 @@
 		});	
 
 		it('should return the correct values', function(){
-			assert.equal(JSON.stringify(instance.getAll()), '{"a":1,"b":10}');
+			assert.equal(JSON.stringify(instance.getAll()), '{"a":1}');
 		});
 
 		it('should report the correct status', function(){
