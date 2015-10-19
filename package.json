@@ -1,7 +1,7 @@
 {
       "name"                        : "ee-configfile"
     , "description"                 : "config loader with support for environments"
-    , "version"                     : "0.2.2"
+    , "version"                     : "0.2.3"
     , "homepage"                    : "https://github.com/eventEmitter/ee-configfile"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)" 
     , "licence"                     : "mit"
