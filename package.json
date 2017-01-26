@@ -1,29 +1,26 @@
 {
       "name"                        : "ee-configfile"
     , "description"                 : "config loader with support for environments"
-    , "version"                     : "0.2.4"
+    , "version"                     : "1.0.0"
     , "homepage"                    : "https://github.com/eventEmitter/ee-configfile"
     , "author"                      : "Michael van der Weg <michael@joinbox.com> (http://joinbox.com/)" 
-    , "licence"                     : "mit"
+    , "license"                     : "MIT"
     , "repository": {
           "url"                     : "https://github.com/eventEmitter/ee-configfile.git"
         , "type"                    : "git"
     }
     , "engines": {
-        "node"                      : ">=v4.1"
+        "node"                      : ">=v6"
     }
     , "bugs": {
         "url"                       : "https://github.com/eventEmitter/ee-configfile/issues"
     }
     , "dependencies": {
-          "ee-class"                : "1.x"
-        , "ee-types"                : "1.x"
-        , "ee-log"                  : "0.3.x"
-        , "ee-argv"                 : "0.1.x"
-        , "ee-project"              : "0.2.x"
+          "ee-log"                  : "1.x"
+        , "app-root-path"           : "2.x"
     }
     , "devDependencies": {
-          "mocha"                   : "1.17.x"
+          "mocha"                   : "3.x"
     }
     , "optionalDependencies": {}
     , "keywords"                    : ["ee", "config"]
