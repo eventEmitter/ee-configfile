@@ -1,5 +1,7 @@
 # ee-configfile
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-configfile.svg)](https://greenkeeper.io/)
+
 config file loader
 
 loads one of the following config file in the dir specified:
