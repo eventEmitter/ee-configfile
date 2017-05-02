@@ -16,7 +16,7 @@
         "url"                       : "https://github.com/eventEmitter/ee-configfile/issues"
     }
     , "dependencies": {
-          "ee-log"                  : "1.x"
+          "ee-log"                  : "^2.0.2"
         , "app-root-path"           : "2.x"
     }
     , "devDependencies": {
